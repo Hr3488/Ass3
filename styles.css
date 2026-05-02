@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
